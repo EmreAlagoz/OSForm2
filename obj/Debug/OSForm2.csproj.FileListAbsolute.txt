@@ -1,0 +1,10 @@
+D:\VisualProjects\OSForm2\obj\Debug\OSForm2.csproj.AssemblyReference.cache
+D:\VisualProjects\OSForm2\obj\Debug\OSForm2.Form1.resources
+D:\VisualProjects\OSForm2\obj\Debug\OSForm2.Properties.Resources.resources
+D:\VisualProjects\OSForm2\obj\Debug\OSForm2.csproj.GenerateResource.cache
+D:\VisualProjects\OSForm2\obj\Debug\OSForm2.csproj.CoreCompileInputs.cache
+D:\VisualProjects\OSForm2\bin\Debug\OSForm2.exe.config
+D:\VisualProjects\OSForm2\bin\Debug\OSForm2.exe
+D:\VisualProjects\OSForm2\bin\Debug\OSForm2.pdb
+D:\VisualProjects\OSForm2\obj\Debug\OSForm2.exe
+D:\VisualProjects\OSForm2\obj\Debug\OSForm2.pdb
